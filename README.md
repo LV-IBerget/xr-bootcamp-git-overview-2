@@ -10,17 +10,20 @@ A simple project to prepare you to use Git. This Readme file will serve as the f
 ## About
 
 Q: What is your name?
-A:
+
+A: Ian Berget
 
 Q: Where are you from?
-A:
+
+A: California
 
 Q: What are you hoping to learn from this course?
-A:
 
-```
+A: How to acclerate my XR protyping.
+
+
 
 ## Todo
 
-1) Commit this Readme to the repo via Command-line interface.
-2) Update this Reame with answers in the [About](#about) section.
+1) ~~Commit this Readme to the repo via Command-line interface.~~
+2) ~~Update this Reame with answers in the [About](#about) section.~~
