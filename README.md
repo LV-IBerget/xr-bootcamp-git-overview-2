@@ -19,7 +19,7 @@ A: California
 
 Q: What are you hoping to learn from this course?
 
-A: How to acclerate my XR protyping.
+A: How to accelerate my XR protyping.
 
 
 
